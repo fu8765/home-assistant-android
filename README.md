@@ -1,10 +1,11 @@
-![HASS + Android](docs/images/HA_Android.png)
-[Home Assistant](https://www.home-assistant.io/) installation on a Google Nexus 7 tablet. A similar setup process can be followed for any Android device.
+![HASS + Android](docs/images/HA_Android.png) 
+Home Assistant + Android
+
 
 # Credits
 All credit goes to @alexanderhale and https://www.reddit.com/user/ihifidt250/
 This is just a temporary repository until updates are made and a better process is found.
-this is a fork of @alexanderhale repo with the LineageOS and Nexus 7 references removed + an updated install process.
+this is a fork of @alexanderhale repo without the LineageOS and Nexus 7 references + an updated install process from ihifidt250
 
 ## Prerequisites
 - Hardware: Android Device (Phone, Tablet, TV, anything that can install/sideload apps)
